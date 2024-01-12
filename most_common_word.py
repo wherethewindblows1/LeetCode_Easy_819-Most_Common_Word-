@@ -37,6 +37,7 @@ class Solution(object):
         1. 정규 표현식에서 *re.sub() 사용, ^\w -> 단어 문자가 아닌 모든 문자를 공백으로 치환.
         2. collections 모듈의 Counter()를 사용하여, 값이 많이 나온 순서대로 정렬. 
         3. collections 모듈의 most_common(1)을 사용하후, 인덱싱([0][0])하여 가장 많이 나온 단어의 key 값 추출.
+        '''
 
 
 
